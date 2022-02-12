@@ -1342,3 +1342,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.12-21.52.15:078][133]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.12-21.52.15:078][133]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
 [2022.02.12-21.52.15:078][133]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.02.12-21.56.58:575][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.02.12-21.57.37:772][116]LogRenderer: Reallocating scene render targets to support 1328x712 Format 10 NumSamples 1 (Frame:1).
+[2022.02.12-22.01.30:763][ 17]BlueprintLog: New page: Compile BP_Tunnel
+[2022.02.12-22.01.30:803][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.02.12-22.01.38:766][586]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-22.01.38:774][586]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.02.12-22.01.38:779][586]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-22.01.38:779][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-22.01.39:743][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2022.02.12-22.03.08:249][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.12-22.03.08:266][334]LogSavePackage: Moving '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/TutorialMap_Auto16EB210C54736E68D9136FD86FE5E1CBA.tmp' to '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto1.umap'
+[2022.02.12-22.03.08:268][334]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.044
+[2022.02.12-22.03.08:268][334]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2022.02.12-22.03.08:268][334]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.12-22.03.08:284][334]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C]
+[2022.02.12-22.03.08:292][334]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.12-22.03.08:292][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.12-22.03.08:305][334]LogSavePackage: Moving '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/BP_Tunnel_Auto1E6FB07124E4E70575BC9A2B041ED0BD5.tmp' to '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto1.uasset'
+[2022.02.12-22.03.08:307][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.12-22.03.08:307][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.12-22.03.08:316][334]LogSavePackage: Moving '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/BP_TunnelSpawner_Auto101F38A2846BBA2E10C804D900D2AA406.tmp' to '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto1.uasset'
+[2022.02.12-22.03.08:317][334]LogFileHelpers: Auto-saving content packages took 0.049
+[2022.02.12-22.05.58:777][ 25]LogEditorTransaction: Undo Function Dropped on Graph
+[2022.02.12-22.13.18:410][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.02.12-22.13.18:427][260]LogSavePackage: Moving '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/TutorialMap_Auto27CBF19044CD057C23D430EA9DFC66DFA.tmp' to '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap'
+[2022.02.12-22.13.18:429][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.045
+[2022.02.12-22.13.18:429][260]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.02.12-22.13.18:429][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.12-22.13.18:429][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.12-22.13.18:441][260]LogSavePackage: Moving '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/BP_TunnelSpawner_Auto2824DEF514255AE1C4C70F8B4BD6DA647.tmp' to '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto2.uasset'
+[2022.02.12-22.13.18:442][260]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.02.12-22.14.39:558][869]LogSavePackage: Moving '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Saved/BP_TunnelSpawner524394E945C8CB996F5A7E9FFC55B4F7.tmp' to '../../../../../../Users/zhongyi3/Desktop/CS498GD_MP1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2022.02.12-22.14.39:575][869]AssetCheck: New page: Asset Save: BP_TunnelSpawner
+[2022.02.12-22.14.39:575][869]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
